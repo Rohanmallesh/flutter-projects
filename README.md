@@ -1,8 +1,4 @@
 # climetor
 
-A new Flutter project.
-it is a weather app which will show ur current place weather ,
-u can see other place location weather by clicking the icon on right top corner building icon to go to
-city screen and input your current location to get ur weather condition and temperature .
-this project is done by using the weather api to get the weather information 
+A Flutter project. it is a climate application that will show ur current spot climate, u can see other spot area weather conditions by tapping the symbol on the right top corner building symbol to go to the city screen and information about your ongoing area to get ur weather pattern and temperature. this undertaking is finished by utilizing the climate programming interface to get the climate data 
 
